@@ -32,7 +32,7 @@ NAME  : RAGUNATH R
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - SRIRAM V (23013561)</title>
+    <title>SLOT TIME TABLE - RAGUNATH R (212222240081)</title>
     <style>
         table {
             border-collapse: collapse;
