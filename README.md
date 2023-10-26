@@ -68,7 +68,7 @@ NAME  : RAGUNATH R
 <body>
     <img src="logo.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - SRIRAM V (23013561)</strong></p>
+        <p><strong>SLOT TIME TABLE - RAGUNATH R (212222240081)</strong></p>
     </div>
     <table>
         <tr>
