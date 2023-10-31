@@ -157,7 +157,8 @@ NAME  : RAGUNATH R
 
 
 ## OUTPUT
-![image](https://github.com/Ragu-123/slot/assets/113915622/8b33e2a8-69c9-4ef4-b693-a72a555919cb)
+![image](https://github.com/Ragu-123/slot/assets/113915622/74e00f3d-6d3d-4d12-86e8-de1bf2adb713)
+
 
 
 
